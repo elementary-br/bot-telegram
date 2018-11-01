@@ -1,0 +1,11 @@
+{
+    "conversation": {
+        "username": "",
+        "password": "",
+        "version": "",
+        "workspaceId": ""
+    },
+    "telegram": {
+        "token": ""
+    }
+}

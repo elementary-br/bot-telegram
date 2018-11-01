@@ -1,0 +1,33 @@
+{
+  "name": "bot-eosbr",
+  "version": "1.0.0",
+  "description": "Assistente oficial do grupo da Comunidade Brasileira do elementary OS.",
+  "main": "app.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "watson-developer-cloud": "^3.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elementary-br/bot-telegram.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "elementary",
+    "os",
+    "elementary",
+    "os",
+    "brasil"
+  ],
+  "author": "elementary Brasil",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/elementary-br/bot-telegram/issues"
+  },
+  "homepage": "https://github.com/elementary-br/bot-telegram#readme"
+}
